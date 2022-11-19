@@ -1,0 +1,3 @@
+C:/Users/Michi/CLionProjects/04_B_palindrome_Kuc/cmake-build-debug/CMakeFiles/04_B_palindrome_Kuc.dir
+C:/Users/Michi/CLionProjects/04_B_palindrome_Kuc/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Michi/CLionProjects/04_B_palindrome_Kuc/cmake-build-debug/CMakeFiles/rebuild_cache.dir
