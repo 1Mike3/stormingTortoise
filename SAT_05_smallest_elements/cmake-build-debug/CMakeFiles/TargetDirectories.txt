@@ -1,0 +1,3 @@
+C:/Users/Michi/CLionProjects/SAT_05_smallest_elements/cmake-build-debug/CMakeFiles/SAT_05_smallest_elements.dir
+C:/Users/Michi/CLionProjects/SAT_05_smallest_elements/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Michi/CLionProjects/SAT_05_smallest_elements/cmake-build-debug/CMakeFiles/rebuild_cache.dir

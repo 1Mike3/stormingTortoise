@@ -1,0 +1,15 @@
+__________TextStats____________
+Selected File: text.txt
+
+== total number of characters: 628, lines: 8 ==
+
+a: 034 h: 017 o: 038 v: 009 
+b: 011 i: 038 p: 021 w: 005 
+c: 011 j: 000 q: 000 x: 003 
+d: 022 k: 002 r: 022 y: 015 
+e: 069 l: 026 s: 036 z: 000 
+f: 011 m: 015 t: 041 
+g: 017 n: 036 u: 009 
+
+== Total Numbers: 4 in 8 lines ==
+07: 1  11: 3  

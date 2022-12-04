@@ -1,0 +1,3 @@
+C:/Users/Michi/CLionProjects/SAT_06_Kuc/cmake-build-debug/CMakeFiles/SAT_06_Kuc.dir
+C:/Users/Michi/CLionProjects/SAT_06_Kuc/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Michi/CLionProjects/SAT_06_Kuc/cmake-build-debug/CMakeFiles/rebuild_cache.dir

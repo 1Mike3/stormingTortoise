@@ -1,0 +1,8 @@
+The origin of C is closely tied to the development of the Unix operating system,
+originally implemented in assembly language on a PDP-7 by Dennis Ritchie and Ken
+Thompson, incorporating several ideas from colleagues. Eventually, they decided
+to port the operating system to a PDP-11. The original PDP-11 version of Unix
+was developed in assembly language. The developers were considering rewriting
+the system using the B language, Thompson's simplified version of BCPL. However
+B's inability to take advantage of some of the PDP-11's features, notably byte
+addressability, led to C. The name of C was chosen simply as the next after B.
